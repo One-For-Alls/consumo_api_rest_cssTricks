@@ -12,6 +12,6 @@ Consumo de la API CSS TRICKS alojada en WordPress mediante JavaScript con fetch.
   
 - Ejecutar el proyecto desde localhost o un hosting
 
-Tambien puedes visualizar el proyecto en linea [Aquí](https://agilesdevelopments.com/)
+Tambien puedes visualizar el proyecto en linea [Aquí](https://api-css-tricks.agilesdevelopments.com/)
 
 
